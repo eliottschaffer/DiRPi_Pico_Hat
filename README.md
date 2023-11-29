@@ -1,5 +1,5 @@
 # DiRPi_Pico_Hat
-Hat to use Raspberry Pico W on DiRPi 4. This is the associated PCB board that goes with the Pico-DiRPi Project.
+Hat to use Raspberry Pico W on DiRPi 4. This is the associated PCB board that goes with the [Pico-DiRPi](https://github.com/eliottschaffer/Pico-DiRPi ) Project.
 
 The board's primary function is to fit on top of the DiRPi, a digitizing board designed at UCSB for High Energy Physics Applications. It unscrambles the pins of a Raspberry Pi Pico W and makes it fit onto the design made for an RPi4. There is a voltage regulator and I2C IO expander as well as lights to easily see which triggers are being used.
 
